@@ -1,1 +1,31 @@
-
+{
+  "id": 1038392,
+  "title": "Conjuring : L'Heure du jugement",
+  "overview": "lors qu’ils espéraient une nouvelle vie, Ed et Lorraine Warren se voient impliqués dans une dernière enquête…qu’ils n’auraient jamais dû accepter. Dans la maison de la famille Smurl, un mal ancien les attend. Un ennemi qu’ils croyaient à jamais enfoui... Découvrez comment les Warren ont affronté le cas le plus maléfique de leur carrière, inspiré de faits réels qui ont terrorisé l’Amérique.",
+  "release_date": "2025-09-15",
+  "runtime": 148,
+  "genres": ["Horreur"],
+  "poster_path": "/poster_inception.jpg",
+  "backdrop_path": "/backdrop_inception.jpg",
+  
+  "servers": [
+    {
+      "name": "Server 1",
+      "language": "FR",
+      "quality": "1080p",
+      "url": "https://monserveur1.com/inception"
+    },
+    {
+      "name": "Server 2",
+      "language": "VO",
+      "quality": "720p",
+      "url": "https://monserveur2.com/inception"
+    },
+    {
+      "name": "Server 3",
+      "language": "FR",
+      "quality": "4K",
+      "url": "https://monserveur3.com/inception"
+    }
+  ]
+}
