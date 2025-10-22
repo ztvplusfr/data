@@ -5,8 +5,8 @@
   "release_date": "2025-09-15",
   "runtime": 148,
   "genres": ["Horreur"],
-  "poster_path": "/poster_inception.jpg",
-  "backdrop_path": "/backdrop_inception.jpg",
+  "poster_path": "https://image.tmdb.org/t/p/original/mlkMH0Em29I0QBc7YeRc9yGFRKw.jpg",
+  "backdrop_path": "https://image.tmdb.org/t/p/original/Fb8gyhkAQorxr98jllYoXurWvj.jpg",
   
   "servers": [
     {
